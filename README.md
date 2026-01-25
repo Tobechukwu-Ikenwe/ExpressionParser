@@ -1,4 +1,4 @@
-# Close to the Compiler
+# Expression Parser
 ## Why Parsing Is Foundational
 
 Parsing is the boundary between raw text and structured meaning.
@@ -10,8 +10,6 @@ This project exists to stay close to that boundary.
 ---
 
 ## Executive Summary
-
-**Close to the Compiler** is a minimal interpreter implemented in C to explore how high-level language constructs are reduced to concrete execution steps.
 
 The project emphasizes:
 - Parsing as a first-class systems concern
@@ -122,7 +120,7 @@ Example
 7
 > x * 2
 14
-
+```
 Commenting Philosophy
 
 This codebase is intentionally heavily commented.
