@@ -135,10 +135,11 @@ This codebase is intentionally heavily commented.
 
 I learn by teaching—first to myself, then to others.
 Comments capture reasoning, invariants, and tradeoffs rather than restating syntax.
-
 Readable systems code outlives clever systems code.
 
-Limitations
+
+
+# Limitations
 
 Single-threaded by design
 
@@ -160,7 +161,9 @@ Optimizer passes
 
 Explicit memory deallocation and leak testing
 
-Why This Matters
+
+
+# Why This Matters
 
 Understanding parsing and execution is foundational to:
 
