@@ -110,7 +110,7 @@ Operator precedence is encoded structurally, not procedurally.
 
 ```bash
 make
-./close_to_compiler
+./expression-parser
 
 
 Warnings are treated as errors by design.
