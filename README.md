@@ -108,10 +108,18 @@ Operator precedence is encoded structurally, not procedurally.
 
 ## Build & Run
 
+# linux/ #MacOs
+
 ```bash
 make
 ./expression-parser
+```
 
+# WINDOWS
+```bash
+make
+expression-parser.exe
+```
 
 Warnings are treated as errors by design.
 
@@ -120,8 +128,8 @@ Example
 7
 > x * 2
 14
-```
-Commenting Philosophy
+
+# Commenting Philosophy
 
 This codebase is intentionally heavily commented.
 
