@@ -109,7 +109,7 @@ Operator precedence is encoded structurally, not procedurally.
 ## Build & Run
 
 ```bash
-gcc src/*.c -Wall -Wextra -Werror -o close_to_compiler
+make
 ./close_to_compiler
 
 
