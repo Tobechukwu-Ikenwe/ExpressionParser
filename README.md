@@ -177,4 +177,4 @@ Network protocols
 
 Security tooling
 
-Abstraction should be built on understanding—not replace it.
+Abstraction should be built on understanding, It should not replace it
