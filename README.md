@@ -129,15 +129,6 @@ Example
 > x * 2
 14
 
-# Commenting Philosophy
-
-This codebase is intentionally heavily commented.
-
-I learn by teaching—first to myself, then to others.
-Comments capture reasoning, invariants, and tradeoffs rather than restating syntax.
-Readable systems code outlives clever systems code.
-
-
 
 # Limitations
 
@@ -177,4 +168,4 @@ Network protocols
 
 Security tooling
 
-Abstraction should be built on understanding, It should not replace it
+Abstraction should be built on understanding, It should not replace it.
